@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" verbose="0" name="Failed suite [Surefire suite]">
+  <test thread-count="1" verbose="0" name="Surefire test(failed)">
+    <classes>
+      <class name="com.example.service.CalculateSimpleNGTest">
+        <methods>
+          <include name="sumaTest"/>
+          <include name="potenciaTest"/>
+          <include name="clearSimpleTest"/>
+          <include name="setUpMethod"/>
+          <include name="clearAdvancedTest"/>
+          <include name="restaTest"/>
+          <include name="divideTest"/>
+          <include name="fibonacciTest"/>
+          <include name="multiplicacionTest"/>
+          <include name="tearDownMethod"/>
+          <include name="sqrtTest"/>
+          <include name="factorialTest"/>
+        </methods>
+      </class> <!-- com.example.service.CalculateSimpleNGTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->

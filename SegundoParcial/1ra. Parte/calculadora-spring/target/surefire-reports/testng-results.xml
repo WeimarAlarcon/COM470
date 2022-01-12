@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="78930" started-at="2022-01-11T23:01:29Z" finished-at="2022-01-11T23:02:48Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="78930" started-at="2022-01-11T23:01:29Z" finished-at="2022-01-11T23:02:48Z">
+      <class name="com.example.service.CalculateSimpleNGTest">
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="setUpMethod" is-config="true" duration-ms="4711" started-at="2022-01-11T23:01:29Z" finished-at="2022-01-11T23:01:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="clearAdvancedTest()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="clearAdvancedTest" duration-ms="2460" started-at="2022-01-11T23:01:34Z" finished-at="2022-01-11T23:01:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearAdvancedTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="tearDownMethod" is-config="true" duration-ms="1617" started-at="2022-01-11T23:01:36Z" finished-at="2022-01-11T23:01:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="setUpMethod" is-config="true" duration-ms="3800" started-at="2022-01-11T23:01:38Z" finished-at="2022-01-11T23:01:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="clearSimpleTest()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="clearSimpleTest" duration-ms="2616" started-at="2022-01-11T23:01:42Z" finished-at="2022-01-11T23:01:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clearSimpleTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="tearDownMethod" is-config="true" duration-ms="1496" started-at="2022-01-11T23:01:44Z" finished-at="2022-01-11T23:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="setUpMethod" is-config="true" duration-ms="3800" started-at="2022-01-11T23:01:46Z" finished-at="2022-01-11T23:01:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="divideTest()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="divideTest" duration-ms="2609" started-at="2022-01-11T23:01:49Z" finished-at="2022-01-11T23:01:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- divideTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="tearDownMethod" is-config="true" duration-ms="1434" started-at="2022-01-11T23:01:52Z" finished-at="2022-01-11T23:01:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="setUpMethod" is-config="true" duration-ms="3854" started-at="2022-01-11T23:01:54Z" finished-at="2022-01-11T23:01:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="factorialTest()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="factorialTest" duration-ms="2447" started-at="2022-01-11T23:01:57Z" finished-at="2022-01-11T23:02:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- factorialTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="tearDownMethod" is-config="true" duration-ms="1604" started-at="2022-01-11T23:02:00Z" finished-at="2022-01-11T23:02:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="setUpMethod" is-config="true" duration-ms="3767" started-at="2022-01-11T23:02:01Z" finished-at="2022-01-11T23:02:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="fibonacciTest()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="fibonacciTest" duration-ms="2457" started-at="2022-01-11T23:02:05Z" finished-at="2022-01-11T23:02:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fibonacciTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="tearDownMethod" is-config="true" duration-ms="1462" started-at="2022-01-11T23:02:08Z" finished-at="2022-01-11T23:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="setUpMethod" is-config="true" duration-ms="3793" started-at="2022-01-11T23:02:09Z" finished-at="2022-01-11T23:02:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="multiplicacionTest()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="multiplicacionTest" duration-ms="2605" started-at="2022-01-11T23:02:13Z" finished-at="2022-01-11T23:02:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multiplicacionTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="tearDownMethod" is-config="true" duration-ms="1405" started-at="2022-01-11T23:02:16Z" finished-at="2022-01-11T23:02:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="setUpMethod" is-config="true" duration-ms="3776" started-at="2022-01-11T23:02:17Z" finished-at="2022-01-11T23:02:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="potenciaTest()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="potenciaTest" duration-ms="2443" started-at="2022-01-11T23:02:21Z" finished-at="2022-01-11T23:02:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- potenciaTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="tearDownMethod" is-config="true" duration-ms="1451" started-at="2022-01-11T23:02:23Z" finished-at="2022-01-11T23:02:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="setUpMethod" is-config="true" duration-ms="3717" started-at="2022-01-11T23:02:25Z" finished-at="2022-01-11T23:02:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="restaTest()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="restaTest" duration-ms="2614" started-at="2022-01-11T23:02:28Z" finished-at="2022-01-11T23:02:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restaTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="tearDownMethod" is-config="true" duration-ms="1421" started-at="2022-01-11T23:02:31Z" finished-at="2022-01-11T23:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="setUpMethod" is-config="true" duration-ms="3842" started-at="2022-01-11T23:02:32Z" finished-at="2022-01-11T23:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="sqrtTest()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="sqrtTest" duration-ms="2410" started-at="2022-01-11T23:02:36Z" finished-at="2022-01-11T23:02:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sqrtTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="tearDownMethod" is-config="true" duration-ms="1450" started-at="2022-01-11T23:02:39Z" finished-at="2022-01-11T23:02:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+        <test-method status="PASS" signature="setUpMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="setUpMethod" is-config="true" duration-ms="3783" started-at="2022-01-11T23:02:40Z" finished-at="2022-01-11T23:02:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method status="PASS" signature="sumaTest()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="sumaTest" duration-ms="2625" started-at="2022-01-11T23:02:44Z" finished-at="2022-01-11T23:02:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sumaTest -->
+        <test-method status="PASS" signature="tearDownMethod()[pri:0, instance:com.example.service.CalculateSimpleNGTest@1554909b]" name="tearDownMethod" is-config="true" duration-ms="1430" started-at="2022-01-11T23:02:46Z" finished-at="2022-01-11T23:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- com.example.service.CalculateSimpleNGTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
